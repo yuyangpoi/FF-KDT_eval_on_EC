@@ -1,0 +1,14 @@
+project_dir: YOUR_PROJECT_PATH
+EC_path: YOUR_EVENT_CAMERA_DATASET_PATH
+
+running_locally: False
+track_name: shitomasi_custom
+representation: EST21
+patch_size: 31
+visualize: True # False
+dt_track_vis: 0.2
+
+
+# Pytorch lightning trainer's argument
+trainer:
+  gpus: [0]
