@@ -16,7 +16,7 @@ The purpose of this repository is to apply the anypoint tracker from FF-KDT on E
    2.2 Download the pretrained weights from [FF-KDT](https://github.com/yuyangpoi/FF-KDT) and place them in the `FF-KDT_checkpoints/` folder of this project.
 
 ## Configuration File
-   Adjust `config/eval_real_defaults.yaml` to set the `project_dir` to the current working directory.
+   In the configs/eval_real_defaults.yaml file, set 'project_dir' and 'EC_path' to point to the current working directory and the dataset directory, respectively. 
 
 ## Evaluation
    After completing the above steps, run the following command:
