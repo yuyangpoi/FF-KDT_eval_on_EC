@@ -1,4 +1,7 @@
 # FF-KDT_eval_on_EC
+<p align="center">
+  <img src="figures/EC_results.png" width="80%">
+</p>
 
 The purpose of this repository is to apply the anypoint tracker from FF-KDT on Event Camera dataset. To ensure successful execution, please follow the steps below:
 
